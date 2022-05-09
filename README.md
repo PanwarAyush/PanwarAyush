@@ -1,6 +1,5 @@
 
-> ### 👋 hey am Ayush ,sophomore at Graphic era deemed to be university.I like to unviel the strategies in datastructures and Algorithm to solve coding problems using c++ Programming language.I am dedicated , hardworking and task based person who likes to write goals in Diaries and accomplish the sub tasks and finally achieve the goal ,moreover like to read inspirational books as well.Am interested in software development carrer and like to study further and try to expertise my knowledge and skills in different fields.
-
+> ### 👋 hey am Ayush ,sophomore at Graphic era deemed to be university.
 ---
 
 #  **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
